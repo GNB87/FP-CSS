@@ -16,9 +16,18 @@ li {
     background:  rgba(0, 128, 0, 0.6); 
     
 }
-
-nav {
-    color: coral;
+a:link {
+    color: firebrick;
+}
+a:hover {
+    color: darkblue;
+    font-size: 1.2;
+}
+a:active {
+    font-size: 1.2;
+}
+a:visited {
+    color: greenyellow ;
 }
 
 div {
