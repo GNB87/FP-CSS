@@ -1,0 +1,36 @@
+h1 {
+    color: coral;
+    background: brown ;
+    text-align: center;
+    background: rgba(0, 128, 0, 0.6);
+   
+}
+h2 {
+    color: coral;   
+    background: brown;
+    text-align: center;
+    background:  rgba(0, 128, 0, 0.6);
+    
+}
+li {
+    background:  rgba(0, 128, 0, 0.6); 
+    
+}
+
+nav {
+    color: coral;
+}
+
+div {
+    color: coral;
+    background-color: brown;
+    font-size: 30px;
+    text-align: center;
+    background: center;
+    background-image: url(css.png);
+   
+}
+
+p {
+    background:  rgba(0, 128, 0, 0.6); 
+}
