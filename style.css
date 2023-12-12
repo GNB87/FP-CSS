@@ -1,16 +1,14 @@
-h1 {
+h1<a{
     color: coral;
     background: brown ;
     text-align: center;
     background: rgba(0, 128, 0, 0.6);
-   
 }
 h2 {
     color: coral;   
     background: brown;
     text-align: center;
     background:  rgba(0, 128, 0, 0.6);
-    
 }
 li {
     background:  rgba(0, 128, 0, 0.6); 
@@ -21,15 +19,14 @@ a:link {
 }
 a:hover {
     color: darkblue;
-    font-size: 1.2;
+    font-size: 1.2em;
 }
 a:active {
-    font-size: 1.2;
+    font-size: 1.2em;
 }
 a:visited {
     color: greenyellow ;
 }
-
 div {
     color: coral;
     background-color: brown;
@@ -37,9 +34,7 @@ div {
     text-align: center;
     background: center;
     background-image: url(css.png);
-   
 }
-
 p {
     background:  rgba(0, 128, 0, 0.6); 
 }
